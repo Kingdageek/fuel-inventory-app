@@ -1,5 +1,7 @@
 # fuel-inventory-app
 
+Single Page Vue App. Frontend to consume [ Fuel Inventory API ](https://github.com/Kingdageek/fuel-inventory-api)
+
 ## Project setup
 ```
 npm install
